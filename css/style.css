@@ -528,8 +528,8 @@ a:visited {
 * 4. banner styles
 */
 .banner-one {
-  background: transparent url(../images/banner-bg-1-1.png) top left no-repeat;
-  background-size: cover;
+  /*background: transparent url(../images/banner-bg-1-1.png) top left no-repeat;*/
+  /*background-size: cover;*/
   padding-top: 255px;
   padding-bottom: 364px;
   position: relative;
@@ -585,7 +585,7 @@ a:visited {
 }
 .banner-one__title {
   margin: 0;
-  color: #fff;
+  /*color: #fff;*/
   font-weight: 400;
   font-size: 70px;
   line-height: 1em;

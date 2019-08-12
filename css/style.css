@@ -1484,7 +1484,7 @@ a:visited {
 */
 .video-one {
   padding: 210px 0 275px;
-  background: #2a2d3b url(../images/video-bg-1-1.jpg) center center no-repeat fixed;
+  background: #2a2d3b url(../images/video-bg-1-1.png) center center no-repeat fixed;
   background-size: cover;
   position: relative;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
@@ -2651,7 +2651,7 @@ a:visited {
 * 16. inner-banner styles
 */
 .inner-banner {
-  background: #2a2d3b url(../images/video-bg-1-1.jpg) center center no-repeat fixed;
+  background: #2a2d3b url(../images/video-bg-1-1.png) center center no-repeat fixed;
   background-size: cover;
   position: relative;
   padding: 127px 0;

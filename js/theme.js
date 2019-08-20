@@ -127,16 +127,16 @@
 
     if ($('.testimonials-one__carousel').length) {
         $('.testimonials-one__carousel').owlCarousel({
-            loop: true,
+            loop: false,
             margin: 30,
-            nav: true,
+            nav: false,
             navText: [
                 '<i class="zeino-icon-left-arrow"></i>',
                 '<i class="icon-revresed zeino-icon-left-arrow"></i>'
             ],
             dots: false,
             autoWidth: false,
-            autoplay: true,
+            autoplay: false,
             smartSpeed: 700,
             autoplayTimeout: 5000,
             autoplayHoverPause: true,
@@ -163,7 +163,7 @@
         });
     }
 
-    if ($('.brand-one__carousel').length) {
+    /*if ($('.brand-one__carousel').length) {
         $('.brand-one__carousel').owlCarousel({
             loop: true,
             margin: 0,
@@ -203,7 +203,7 @@
                 }
             }
         });
-    }
+    }*/
 
 
     function SmoothMenuScroll() {
